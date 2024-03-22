@@ -1,0 +1,5 @@
+IP: 158.160.86.106;
+name_taski: https://mytaski-test.zapto.org/ ;
+name_kittygram: https://mykittygramfinal.hopto.org/ ;
+login: admin1 ;
+password: Be7354ro ;
